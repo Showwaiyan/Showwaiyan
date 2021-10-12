@@ -11,7 +11,8 @@
 
 - ⚡ Fun fact **I love to think problem-solving & control the Mechine**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Showwaiyan)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Showwaiyan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### Blogs posts
