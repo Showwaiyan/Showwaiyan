@@ -29,8 +29,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=showwaiyan&show_icons=true&locale=en&layout=compact" alt="showwaiyan" /></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=showwaiyan)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=showwaiyan&exclude_repo=github-readme-stats,showwaiyan.github.io)](https://github.com/Showwaiyan/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=showwaiyan&langs_count=4)](https://github.com/Showwaiyan/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=showwaiyan&layout=compact)](https://github.com/Showwaiyan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=showwaiyan&exclude_repo=github-readme-stats,showwaiyan.github.io)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=showwaiyan&langs_count=4)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=showwaiyan&layout=compact)]
 
 
