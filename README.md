@@ -17,7 +17,7 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [applicative order Vs Normal order](https://dev.to/showwaiyan/applicative-order-vs-normal-order-1dj)
+- [Applicative order Vs Normal order](https://dev.to/showwaiyan/applicative-order-vs-normal-order-1dj)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
