@@ -17,6 +17,7 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Recursion : Linear recursion and Tail recursion](https://dev.to/showwaiyan/recursion-linear-recursion-and-tail-recursion-5hn5)
 - [Applicative order Vs Normal order](https://dev.to/showwaiyan/applicative-order-vs-normal-order-1dj)
 <!-- BLOG-POST-LIST:END -->
 
