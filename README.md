@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Show WaiYan (DamianZort)</h1>
 <h3 align="center">A Game Developer who is Enthusiastic about Software Engineering</h3>
 
-- 🌱 I’m currently learning **Unity, C#, C++**
+- 🌱 I’m currently learning **Pyggame, Python**
 
 - 📝 I regularly write articles on [https://dev.to/showwaiyan](https://dev.to/showwaiyan)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **showwaiyan555@gmail.com**
 
-- ⚡ Fun fact **I love to think problem-solving & control the Mechine**
+- ⚡ Fun fact **: I love to think problem-solving & control the Mechine**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Showwaiyan&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
