@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **showwaiyan555@gmail.com**
 
-- ⚡ Fun fact **: I hate CSS**
+- ⚡ Fun fact **: To be honest, I hate CSS**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Showwaiyan&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
