@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://dev.to/showwaiyan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="showwaiyan" height="30" width="40" /></a>
 <a href="https://twitter.com/@showwaiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@showwaiy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/show-waiyan-27b8811b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="show-waiyan-27b8811b2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/showwaiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="show-waiyan-27b8811b2" height="30" width="40" /></a>
 <a href="https://fb.com/damian.zort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="damian.zort" height="30" width="40" /></a>
 <a href="https://instagram.com/_damian_zort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_damian_zort" height="30" width="40" /></a>
 </p>
