@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **showwaiyan555@gmail.com**
 
-- ⚡ Fun fact **: To be honest, I hate CSS**
+- ⚡ Fun fact **: I can use Vim skillfully and exactly know how to quit!**
 
 ## 📬Blog Posts :
 <!-- BLOG-POST-LIST:START -->
