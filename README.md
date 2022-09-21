@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Show WaiYan (Damian Zobile) 🧔🏻</h1>
-<h3 align="center">A developer who is Enthusiastic about Software Engineering, Artifical Intelligence and Blockchain development</h3>
+<h3 align="center">A programmer who is Enthusiastic about Software Engineering, Artifical Intelligence and Blockchain development</h3>
 
 ## 💫About Me :
 - 🌱 I’m currently learning **HTML,CSS & JS**
