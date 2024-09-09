@@ -2,7 +2,7 @@
 <h3 align="center">A programmer who is Enthusiastic about Software Engineering, Artifical Intelligence and Blockchain development</h3>
 
 ## 💫About Me :
-- 🌱 I’m currently learning **HTML,CSS & JS**
+- 🌱 I’m currently learning **Responsive Web Design & Ruby**
 
 - 📝 I regularly write articles on [https://dev.to/showwaiyan](https://dev.to/showwaiyan)
 
