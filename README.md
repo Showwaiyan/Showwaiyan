@@ -8,8 +8,8 @@ A programmer who is Enthusiastic about Software Engineering, Artificial Intellig
 
 *   🌍  I'm based in Kuala Lumpur
 *   ✉️  You can contact me at [showwaiyan555@gmail.com](mailto:showwaiyan555@gmail.com)
-*   🚀  I'm currently working on [Swin-towers (School Assignment)](http://https://github.com/Showwaiyan/Swin-towers)
-*   🧠  I'm learning Ruby and PHP
+*   🚀  I'm currently working on [Bankist Website](https://github.com/Showwaiyan/bankist-website.git)
+*   🧠  I'm currently learning JavaScript and Responsive Web Design
 *   ⚡  I know exactly how to quit VIM
 
 ### Skills
