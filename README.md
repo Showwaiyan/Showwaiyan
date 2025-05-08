@@ -73,8 +73,15 @@ A programmer who is Enthusiastic about Software Engineering, Artificial Intellig
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
                     </picture>
-                       
- </a></p>
+                    </a>
+                    <a href="https://twitter.com/ShowwaiY" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=FFFFFF" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=000000" />
+                    <img src="https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=FFFFFF" width="32" height="32" />
+                    </picture>
+                    </a>
+ </p>
  ### Badges
  
  <p><a href="http://www.github.com/Showwaiyan" align="left"><img src="https://github-readme-stats.vercel.app/api?username=Showwaiyan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Showwaiyan's GitHub stats" /></a></p>
