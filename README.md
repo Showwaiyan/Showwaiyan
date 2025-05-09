@@ -31,7 +31,7 @@ A programmer who is Enthusiastic about Software Engineering, Artificial Intellig
 
 #### Back-End
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/c6ef0b17-e8b7-43a8-b362-0c4378998169" alt="express" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/8e7fd265-9c73-4a62-9f2a-a6e6ac08958e" alt="express" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/2a55c8c5-8440-4b83-a233-b323c3f2e816" alt="nodejs" width="40" height="40"/>
 </p>
 
