@@ -8,8 +8,8 @@ A programmer who is Enthusiastic about Software Engineering, Artificial Intellig
 
 *   🌍  I'm based in Kuala Lumpur
 *   ✉️  You can contact me at [showwaiyan555@gmail.com](mailto:showwaiyan555@gmail.com)
-*   🚀  I'm currently working on [Natours](https://github.com/Showwaiyan/Natours.git)
-*   🧠  I'm currently learning Express and ASP.NET
+*   🚀  I'm currently working on [Natours](https://github.com/Showwaiyan/Natours.git) & [Swin-Bite](https://github.com/Showwaiyan/Swin-Bite.git)
+*   🧠  I'm currently learning ExpressJS, ASP.NET and Docker
 *   ⚡  I know exactly how to quit VIM
 
 ### Skills
@@ -104,6 +104,7 @@ A programmer who is Enthusiastic about Software Engineering, Artificial Intellig
                     </picture>
                     </a>
  </p>
+ 
  ### Badges
  
  <p><a href="http://www.github.com/Showwaiyan" align="left"><img src="https://github-readme-stats.vercel.app/api?username=Showwaiyan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Showwaiyan's GitHub stats" /></a></p>
