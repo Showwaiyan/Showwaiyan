@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Show Wai Yan (Zoirbile)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Show Wai Yan (Show)
 ===============================================================================================================================================
 
 Full Stack Developer
@@ -10,7 +10,7 @@ A programmer who is Enthusiastic about Software Engineering, Artificial Intellig
 *   ✉️  You can contact me at [showwaiyan555@gmail.com](mailto:showwaiyan555@gmail.com)
 *   🚀  I'm currently working on [Natours](https://github.com/Showwaiyan/Natours.git) & [Swin-Bite](https://github.com/Showwaiyan/Swin-Bite.git)
 *   🧠  I'm currently learning ExpressJS, ASP.NET and Docker
-*   ⚡  I know exactly how to quit VIM
+*   ⚡  I’m not loyal to stacks, I’m loyal to solutions.
 
 ### Skills
 #### Languages
