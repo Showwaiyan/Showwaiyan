@@ -15,9 +15,10 @@ A programmer who is Enthusiastic about Software Engineering, Artificial Intellig
 ### Skills
 #### Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img width="45" height="43" alt="image" src="https://github.com/user-attachments/assets/c19da06a-31b3-419a-b6b9-401de4cdf147" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6dc0ac46-5611-4d88-b721-cdf0e89aba64" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
 
@@ -47,6 +48,7 @@ A programmer who is Enthusiastic about Software Engineering, Artificial Intellig
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/943c18d5-d792-4cd2-abe3-e578f80e39f3" />
 </p>
 
                     
