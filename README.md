@@ -8,8 +8,8 @@ A programmer who is Enthusiastic about Software Engineering, Artificial Intellig
 
 *   🌍  I'm based in Kuala Lumpur
 *   ✉️  You can contact me at [showwaiyan555@gmail.com](mailto:showwaiyan555@gmail.com)
-*   🚀  I'm currently working on [Natours](https://github.com/Showwaiyan/Natours.git) & [Swin-Bite](https://github.com/Showwaiyan/Swin-Bite.git)
-*   🧠  I'm currently learning ExpressJS, ASP.NET and ReactJS
+*   🚀  I'm currently working on [corporate-banking-app-backend](https://github.com/Showwaiyan/corporate-banking-app-backend.git)
+*   🧠  I'm currently learning Java and Spring framework.
 *   ⚡  I’m not loyal to stacks, I’m loyal to solutions.
 
 ### Skills
