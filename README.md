@@ -116,6 +116,3 @@ A programmer who is Enthusiastic about Software Engineering, Artificial Intellig
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Showwaiyan&icon=0&color=0)](https://visitcount.itsvg.in)
-<a href="https://www.github.com/Showwaiyan" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Showwaiyan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
