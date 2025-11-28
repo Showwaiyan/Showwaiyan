@@ -9,7 +9,7 @@ A programmer who is Enthusiastic about Software Engineering, Artificial Intellig
 *   🌍  I'm based in Kuala Lumpur
 *   ✉️  You can contact me at [showwaiyan555@gmail.com](mailto:showwaiyan555@gmail.com)
 *   🚀  I'm currently working on [corporate-banking-app-backend](https://github.com/Showwaiyan/corporate-banking-app-backend.git)
-*   🧠  I'm currently learning Java and Spring framework.
+*   🧠  I'm currently learning C and JavaSE for better foundation for my embedded and backend engineering journey.
 *   ⚡  I’m not loyal to stacks, I’m loyal to solutions.
 
 ### Skills
