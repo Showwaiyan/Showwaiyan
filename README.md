@@ -108,11 +108,25 @@ A programmer who is Enthusiastic about Software Engineering, Artificial Intellig
  </p>
  
  ### Badges
- 
+
+<p align="left">
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Showwaiyan&exclude=HTML,CSS&theme=github_dark&layout=compact&hide_border=true"
+    alt="Showwaiyan :: Top Langs by repo"
+  />
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Showwaiyan&exclude=HTML,CSS&theme=github_dark&layout=compact&hide_border=true"
+    alt="Showwaiyan :: Top Langs by commit"
+  />
+</p>
+
+<!--
 <p><a href="http://www.github.com/Showwaiyan" align="left"><img src="https://github-readme-stats.vercel.app/api?username=Showwaiyan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Showwaiyan's GitHub stats" /></a></p>
 </br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Showwaiyan&theme=dark&hide_border=true&title_color=0891b2&text_color=ffffff&include_all_commits=false&count_private=false&layout=compact)
-
+-->
 
 ---
