@@ -1,15 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Show Wai Yan (Show)
 ===============================================================================================================================================
 
-Full Stack Developer
+Embedded Software Engineer
 --------------------
 
-A programmer who is Enthusiastic about Software Engineering, Artificial Intelligence and Blockchain development
+CS student learning embedded systems and robotics by building small real-world projects.
+Interested in low-level programming, performance, and understanding how software meets hardware.
 
 *   🌍  I'm based in Kuala Lumpur
 *   ✉️  You can contact me at [showwaiyan555@gmail.com](mailto:showwaiyan555@gmail.com)
-*   🚀  I'm currently working on [corporate-banking-app-backend](https://github.com/Showwaiyan/corporate-banking-app-backend.git)
-*   🧠  I'm currently learning C and JavaSE for better foundation for my embedded and backend engineering journey.
+*   🚀  I'm currently working on [egos-2000](https://github.com/Showwaiyan/egos-2000.git) and my own Agentic IDE
+*   🧠  I'm currently learning C and Calculus for better foundation for my embedded and backend engineering journey.
 *   ⚡  I’m not loyal to stacks, I’m loyal to solutions.
 
 ### Skills
