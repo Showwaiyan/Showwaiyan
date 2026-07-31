@@ -9,8 +9,8 @@ Interested in low-level programming, performance, and understanding how software
 
 *   🌍  I'm based in Kuala Lumpur
 *   ✉️  You can contact me at [showwaiyan555@gmail.com](mailto:showwaiyan555@gmail.com)
-*   🚀  I'm currently working on [egos-2000](https://github.com/Showwaiyan/egos-2000.git) and my own Agentic IDE
-*   🧠  I'm currently learning C and Calculus for better foundation for my embedded and backend engineering journey.
+*   🚀  I'm currently working on **Hardware Pomodoro Timer project** As I don't want to use any digital version on my device which makes distractions 
+*   🧠  I'm currently learning **Python Library related to Machine Learning** and **Bare Metal Programming** for better foundation for my engineering journey.
 *   ⚡  I’m not loyal to stacks, I’m loyal to solutions.
 
 ### Skills
