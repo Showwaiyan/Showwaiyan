@@ -18,7 +18,6 @@ Interested in low-level programming, performance, and understanding how software
 <p align="left">
   <img width="45" height="43" alt="image" src="https://github.com/user-attachments/assets/c19da06a-31b3-419a-b6b9-401de4cdf147" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/6dc0ac46-5611-4d88-b721-cdf0e89aba64" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
