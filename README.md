@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Show Wai Yan (Show)
 ===============================================================================================================================================
 
-Embedded Software Engineer
+Software guy who loves Hardware
 --------------------
 
-CS student learning embedded systems and robotics by building small real-world projects.
-Interested in low-level programming, performance, and understanding how software meets hardware.
+CS student exploring everything from bare-metal firmware to web apps and machine learning.
+Embedded is my first career path, but I like understanding how things work at every layer.
 
-*   🌍  I'm based in Kuala Lumpur
-*   ✉️  You can contact me at [showwaiyan555@gmail.com](mailto:showwaiyan555@gmail.com)
-*   🚀  I'm currently working on **Hardware Pomodoro Timer project** As I don't want to use any digital version on my device which makes distractions 
-*   🧠  I'm currently learning **Python Library related to Machine Learning** and **Bare Metal Programming** for better foundation for my engineering journey.
-*   ⚡  I’m not loyal to stacks, I’m loyal to solutions.
+*   🌍  I'm based in Kuala Lumpur
+*   ✉️  You can contact me at [showwaiyan555@gmail.com](mailto:showwaiyan555@gmail.com)
+*   🚀  I'm currently working on **Hardware Pomodoro Timer project** As I don't want to use any digital version on my device which makes distractions
+*   🧠  I'm currently learning **Bare Metal Programming**, **RISC-V / operating systems** and **Python Library related to Machine Learning**
+*   ⚡  I’m not loyal to stacks, I’m loyal to solutions.
 
 ### Skills
 #### Languages
@@ -77,7 +77,7 @@ Interested in low-level programming, performance, and understanding how software
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
                     </picture>
                     </a>
-                    <a href="http://www.instagram.com/zoirbile" target="_blank" rel="noreferrer">
+                    <a href="https://www.instagram.com/show_waiyan" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
@@ -121,12 +121,5 @@ Interested in low-level programming, performance, and understanding how software
     alt="Showwaiyan :: Top Langs by commit"
   />
 </p>
-
-<!--
-<p><a href="http://www.github.com/Showwaiyan" align="left"><img src="https://github-readme-stats.vercel.app/api?username=Showwaiyan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Showwaiyan's GitHub stats" /></a></p>
-</br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Showwaiyan&theme=dark&hide_border=true&title_color=0891b2&text_color=ffffff&include_all_commits=false&count_private=false&layout=compact)
--->
 
 ---
